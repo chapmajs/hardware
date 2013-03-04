@@ -3,6 +3,8 @@
 
 An OSHW combined power supply and current loop controller for 24V relays. 
 
+This project is released as [Open Source Hardware (OSHW)](http://www.openhardware.org/). All works contained within this repository are covered by a [Creative Commons Attribution-ShareAlike 3.0 license (CC BY-SA 3.0)](http://creativecommons.org/licenses/by-sa/3.0/)
+
 External Libraries
 ------------------
 
